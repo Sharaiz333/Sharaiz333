@@ -32,7 +32,7 @@ alt="Typing Animation"
 <a href="https://www.linkedin.com/in/sharaiz-romee">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sharaiz.ahmed@googlemail.com"> <img src="https://img.shields.io/badge/EMAIL-sharaiz%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:sharaiz.ahmed@googlemail.com"> <img src="https://img.shields.io/badge/EMAIL-sharaiz.ahmed%40googlemail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <br/><br/>
 
