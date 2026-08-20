@@ -1,7 +1,9 @@
 <div align="center">
-<img src="./assets/sharaiz-hero.gif" width="100%" alt="Sharaiz Ahmed — Student @ Riphah" />
+
+<img src="./assets/sharaiz-hero.gif" width="100%" alt="Sharaiz Ahmed — AI/ML Engineer and Software Developer" />
 
 <br/>
+<div align="center">
 <!-- ==================== HERO ==================== -->
 
 <img src="./assets/hero-banner.gif" width="100%" alt="Sharaiz Ahmed Developer Portfolio"/>
