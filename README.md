@@ -1,8 +1,13 @@
 <div align="center">
 <!-- ==================== HERO ==================== -->
-<img src="./assets/sharaiz-hero.gif" width="100%" alt="Sharaiz Ahmed — AI/ML Engineer and Software Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Sharaiz%20Ahmed&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Science&descSize=22&descAlignY=62&descColor=FFFFFF&animation=fadeIn" width="100%" alt="Sharaiz Ahmed — AI Engineer | Software Developer | Data Science" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=27&duration=2800&pause=900&color=BD5CFF&center=true&vCenter=true&width=900&height=60&lines=Computer+Science+Undergraduate" alt="Computer Science Undergraduate" />
+
+<br/><br/>
+
 <img src="./assets/hero-banner.gif" width="100%" alt="Sharaiz Ahmed Developer Portfolio"/>
 
 <br/>
@@ -76,7 +81,7 @@ I enjoy taking an idea from **concept → code → working product** and continu
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:sharaiz@example.com">
+<a href="mailto:sharaiz.ahmed@googlemail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
