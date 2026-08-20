@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ==================== HERO ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Sharaiz%20Ahmed&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Science&descSize=22&descAlignY=62&descColor=FFFFFF&animation=fadeIn" width="100%" alt="Sharaiz Ahmed — AI/ML Engineer | Software Developer | Exploring Agentic AI " />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24&text=Sharaiz%20Ahmed&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Building%20Intelligent%20Systems&descSize=22&descAlignY=62&descColor=FFFFFF&animation=fadeIn" width="100%" alt="Sharaiz Ahmed — AI/ML Engineer | Software Developer | Building Intelligent Systems " />
 
 <br/>
 
