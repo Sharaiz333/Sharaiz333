@@ -1,5 +1,7 @@
 <div align="center">
+<img src="./assets/sharaiz-hero.gif" width="100%" alt="Sharaiz Ahmed — Student @ Riphah" />
 
+<br/>
 <!-- ==================== HERO ==================== -->
 
 <img src="./assets/hero-banner.gif" width="100%" alt="Sharaiz Ahmed Developer Portfolio"/>
@@ -265,13 +267,11 @@ My portfolio also includes certifications and learning achievements covering are
 # 🧩 Development Philosophy
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   💡 Think      →      🧠 Learn      →      🛠️ Build   │
-│                                                         │
-│              →      🚀 Deploy      →      📈 Improve   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                   │
+│   💡 Think      →      🧠 Learn      →      🛠️ Build  →      🚀 Deploy      →     📈 Improve    │
+│                                                                                                   │
+└───────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 I believe the best way to learn technology is to **build real things with it**.
