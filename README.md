@@ -4,9 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=27&duration=2800&pause=900&color=BD5CFF&center=true&vCenter=true&width=900&height=60&lines=Computer+Science+Undergraduate" alt="Computer Science Undergraduate" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=27&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=60&lines=Computer+Science+Undergraduate+%40+Riphah" alt="Computer Science Undergraduate @ Riphah" />
 
-<br/><br/>
+<br/><br/> 
 
 <img src="./assets/hero-banner.gif" width="100%" alt="Sharaiz Ahmed Developer Portfolio"/>
 
