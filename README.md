@@ -237,33 +237,16 @@ My portfolio also includes certifications and learning achievements covering are
 
 > 📚 **Learning never stops. Every project is another opportunity to improve.**
 
----# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sharaiz333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaiz333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&text_color=FFFFFF" alt="Top Languages" height="180" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sharaiz333&theme=tokyonight&hide_border=true&background=0D1117&ring=BD5CFF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-</div>
-
 ---
+📊 GitHub Activity
+<div align="center"> <a href="https://github.com/Sharaiz333"> <img src="https://github-readme-stats.vercel.app/api?username=Sharaiz333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&icon_color=00D9FF&text_color=FFFFFF" alt="Sharaiz Ahmed GitHub Stats" /> </a> <a href="https://github.com/Sharaiz333"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaiz333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&text_color=FFFFFF" alt="Top Programming Languages" /> </a>
 
-# 📈 Contribution Graph
+<br><br>
 
-<div align="center">
+<a href="https://github.com/Sharaiz333"> <img src="https://streak-stats.demolab.com?user=Sharaiz333&theme=tokyonight&hide_border=true&background=0D1117&ring=BD5CFF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" /> </a> </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharaiz333&bg_color=0D1117&color=FFFFFF&line=BD5CFF&point=00D9FF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-
-</div>
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharaiz333&bg_color=0D1117&color=FFFFFF&line=BD5CFF&point=00D9FF&area=true&hide_border=true" alt="Sharaiz Ahmed Contribution Graph" /> </div>
 
 
 
