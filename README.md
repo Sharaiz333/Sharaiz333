@@ -259,26 +259,17 @@ My portfolio also includes certifications and learning achievements covering are
 
 </div>
 
-<br>
+---
+
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharaiz333&bg_color=0D1117&color=FFFFFF&line=BD5CFF&point=00D9FF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharaiz333&bg_color=0D1117&color=FFFFFF&line=BD5CFF&point=00D9FF&area=true&hide_border=true" alt="GitHub Contribution Activity">
 
 </div>
 
 ---
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/Sharaiz333">
-<img src="https://github-readme-stats.vercel.app/api?username=Sharaiz333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Statistics">
-</a>
-
-</div>
-
 
 
 # 🧩 Development Philosophy
