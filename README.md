@@ -238,15 +238,46 @@ My portfolio also includes certifications and learning achievements covering are
 > 📚 **Learning never stops. Every project is another opportunity to improve.**
 
 ---
-📊 GitHub Activity
-<div align="center"> <a href="https://github.com/Sharaiz333"> <img src="https://github-readme-stats.vercel.app/api?username=Sharaiz333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&icon_color=00D9FF&text_color=FFFFFF" alt="Sharaiz Ahmed GitHub Stats" /> </a> <a href="https://github.com/Sharaiz333"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaiz333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&text_color=FFFFFF" alt="Top Programming Languages" /> </a>
 
-<br><br>
+---
 
-<a href="https://github.com/Sharaiz333"> <img src="https://streak-stats.demolab.com?user=Sharaiz333&theme=tokyonight&hide_border=true&background=0D1117&ring=BD5CFF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" /> </a> </div>
+# 📊 GitHub Activity
 
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharaiz333&bg_color=0D1117&color=FFFFFF&line=BD5CFF&point=00D9FF&area=true&hide_border=true" alt="Sharaiz Ahmed Contribution Graph" /> </div>
+<div align="center">
+
+<a href="https://github.com/Sharaiz333">
+<img src="https://img.shields.io/github/followers/Sharaiz333?style=for-the-badge&logo=github&label=FOLLOWERS&color=8A2BE2" alt="GitHub Followers">
+</a>
+
+<a href="https://github.com/Sharaiz333?tab=repositories">
+<img src="https://img.shields.io/github/stars/Sharaiz333?style=for-the-badge&logo=github&label=STARS&color=00D9FF" alt="GitHub Stars">
+</a>
+
+<a href="https://github.com/Sharaiz333?tab=repositories">
+<img src="https://img.shields.io/github/repos/Sharaiz333?style=for-the-badge&logo=github&label=REPOSITORIES&color=BD5CFF" alt="GitHub Repositories">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharaiz333&bg_color=0D1117&color=FFFFFF&line=BD5CFF&point=00D9FF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph">
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/Sharaiz333">
+<img src="https://github-readme-stats.vercel.app/api?username=Sharaiz333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Statistics">
+</a>
+
+</div>
 
 
 
