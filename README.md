@@ -237,20 +237,21 @@ My portfolio also includes certifications and learning achievements covering are
 
 > 📚 **Learning never stops. Every project is another opportunity to improve.**
 
----
-# 📊 GitHub Activity
+---# 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharaiz333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&icon_color=00D9FF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=Sharaiz333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaiz333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaiz333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD5CFF&text_color=FFFFFF" alt="Top Languages" height="180" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sharaiz333&theme=tokyonight&hide_border=true&background=0D1117&ring=BD5CFF&fire=FF6B35&currStreakLabel=00D9FF)
+<img src="https://streak-stats.demolab.com?user=Sharaiz333&theme=tokyonight&hide_border=true&background=0D1117&ring=BD5CFF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
 
 </div>
 
@@ -260,9 +261,10 @@ My portfolio also includes certifications and learning achievements covering are
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharaiz333&bg_color=0D1117&color=FFFFFF&line=BD5CFF&point=00D9FF&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharaiz333&bg_color=0D1117&color=FFFFFF&line=BD5CFF&point=00D9FF&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 
 </div>
+
 
 
 # 🧩 Development Philosophy
